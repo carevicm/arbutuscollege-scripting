@@ -4,5 +4,7 @@ regex = /School/
 string = ARGV[0]
 
 matches = string.scan(regex)
+concatenated = matches.join
 
-matches.each { |match| puts "#{match} (#{match.length} chars long)" }
+puts concatenated
+puts "(#{concatenated.length} chars long)"
