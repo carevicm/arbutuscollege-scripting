@@ -1,10 +1,9 @@
 #!/usr/bin/env ruby
 
-regex = /School/
+regex = /\bSchool\b/
 string = ARGV[0]
 
-matches = string.scan(regex)
-concatenated = matches.join
+match = regex.match(string)
 
-puts concatenated
-puts "(#{concatenated.length} chars long)"
+puts match ? match[0] : ""
+puts "(#{match ? match[0].length : 0} chars long)"
