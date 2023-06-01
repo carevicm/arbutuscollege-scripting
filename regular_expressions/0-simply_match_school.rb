@@ -3,6 +3,6 @@
 regex = /School/
 string = ARGV[0]
 
-match = regex.match(string)
+matches = string.scan(regex)
 
-puts match ? match[0] : ""
+matches.each { |match| puts "#{match} (#{match.length} chars long)" }
