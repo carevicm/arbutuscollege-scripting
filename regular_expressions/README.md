@@ -1,4 +1,5 @@
 Project badge
+100%
 Regular expression
  Novice
  By: Sylvain Kalache
@@ -44,6 +45,7 @@ Great! You've completed the quiz successfully! Keep going! (Show quiz)
 Tasks
 0. Simply matching School
 mandatory
+Score: 100.00% (Checks completed: 100.00%)
 
 
 Requirements:
@@ -65,10 +67,11 @@ Repo:
 GitHub repository: arbutuscollege-scripting
 Directory: regular_expressions
 File: 0-simply_match_school.rb
-  
-0/4 pts
+   
+4/4 pts
 1. Repetition Token #0
 mandatory
+Score: 100.00% (Checks completed: 100.00%)
 
 
 Requirements:
@@ -80,10 +83,11 @@ Repo:
 GitHub repository: arbutuscollege-scripting
 Directory: regular_expressions
 File: 1-repetition_token_0.rb
-  
-0/3 pts
+   
+3/3 pts
 2. Repetition Token #1
 mandatory
+Score: 100.00% (Checks completed: 100.00%)
 
 
 Requirements:
@@ -95,10 +99,11 @@ Repo:
 GitHub repository: arbutuscollege-scripting
 Directory: regular_expressions
 File: 2-repetition_token_1.rb
-  
-0/3 pts
+   
+3/3 pts
 3. Repetition Token #2
 mandatory
+Score: 100.00% (Checks completed: 100.00%)
 
 
 Requirements:
@@ -110,10 +115,11 @@ Repo:
 GitHub repository: arbutuscollege-scripting
 Directory: regular_expressions
 File: 3-repetition_token_2.rb
-  
-0/3 pts
+   
+3/3 pts
 4. Repetition Token #3
 mandatory
+Score: 100.00% (Checks completed: 100.00%)
 
 
 Requirements:
@@ -126,10 +132,11 @@ Repo:
 GitHub repository: arbutuscollege-scripting
 Directory: regular_expressions
 File: 4-repetition_token_3.rb
-  
-0/3 pts
+   
+3/3 pts
 5. Not quite HBTN yet
 mandatory
+Score: 100.00% (Checks completed: 100.00%)
 Requirements:
 
 The regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between
@@ -151,10 +158,11 @@ Repo:
 GitHub repository: arbutuscollege-scripting
 Directory: regular_expressions
 File: 5-beginning_and_end.rb
-  
-0/5 pts
+   
+5/5 pts
 6. Call me maybe
 mandatory
+Score: 100.00% (Checks completed: 100.00%)
 This task is brought to you by a professional advisor Neha Jain, Senior Software Engineer at LinkedIn.
 
 Requirement:
@@ -176,10 +184,11 @@ Repo:
 GitHub repository: arbutuscollege-scripting
 Directory: regular_expressions
 File: 6-phone_number.rb
-  
-0/2 pts
+   
+2/2 pts
 7. OMG WHY ARE YOU SHOUTING?
 mandatory
+Score: 100.00% (Checks completed: 100.00%)
 
 
 Requirement:
@@ -199,10 +208,11 @@ Repo:
 GitHub repository: arbutuscollege-scripting
 Directory: regular_expressions
 File: 7-OMG_WHY_ARE_YOU_SHOUTING.rb
-  
-0/1 pt
+   
+1/1 pt
 8. Textme
 mandatory
+Score: 100.00% (Checks completed: 100.00%)
 This exercise was prepared for you by Guillaume Plessis, VP of Infrastructure at TextMe. It is something he uses daily. You can thank Guillaume for his project on Twitter.
 
 For this task, you’ll be taking over Guillaume’s responsibilities: one afternoon, a TextMe VoIP Engineer comes to you and explains she wants to run some statistics on the TextMe app text messages transactions.
@@ -237,8 +247,8 @@ Repo:
 GitHub repository: arbutuscollege-scripting
 Directory: regular_expressions
 File: 8-textme.rb
-  
-0/9 pts
+   
+9/9 pts
 9. Pass LinkedIn technical interview level0
 mandatory
 One way to get started in getting a Software Engineering job at LinkedIn is to solve their regex puzzle.
@@ -260,6 +270,3 @@ Repo:
 GitHub repository: arbutuscollege-scripting
 Directory: regular_expressions
 File: 9-passed_linkedin_regex_challenge.jpg
-Please review your task manually with the following checklist
-Student solved the puzzle and provided a screenshot with date and time.
-
